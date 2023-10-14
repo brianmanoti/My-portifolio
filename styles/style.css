@@ -144,14 +144,14 @@ ul li a:hover {
   letter-spacing: 2px;
   padding: 1rem 2rem;
   outline: none;
-  border: 2px solid var(--primary-color);
+  border: 2px solid #1089ff;
   border-radius: 10px;
   transition: 0.3s;
   cursor: pointer;
 }
 
 .hire__me {
-  background-color: var(--primary-color);
+  background-color: #0975e1;
   color: #ffffff;
 }
 
@@ -160,7 +160,8 @@ ul li a:hover {
 }
 
 .portfolio {
-  color: var(--primary-color);
+  color: #faf5ff;
+  background-color: #99cde6;
 }
 
 .portfolio:hover {
